@@ -1,6 +1,7 @@
 package com.company;
 
 public class SolarSystem {
-        String planet;
-        String color;
+        String sun;
+        String moon;
+        String planets;
 }
