@@ -8,5 +8,10 @@ public class Main {
             milkyWay.sun="1";
             milkyWay.planets="12";
 
+            Sun sun = new Sun();
+            sun.Heat="12341413";
+            sun.radius="66552228km";
+            sun.temp=121222121c;
+
     }
 }
